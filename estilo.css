@@ -1,6 +1,7 @@
 body
 {
-    color: violet;
+    background-color: gray;
+    color: rgb(82, 14, 82);
     text-align: center;
 }
 #cabecera

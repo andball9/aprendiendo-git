@@ -16,3 +16,13 @@ git reset  head es para quitar los archivos de  staging para que no se envien al
 git commit -am "mensaje" = un commit sin el git add solo para archivos con un add previamente
 git branch = crea una nueva rama 
 git merge = une dos ramas
+git remote add origin (las url que da github) = unir con un repositorio remoto
+git remote = para ver si tenemos un repossitorio remoto
+git remote -v = ver el link del repositorio remoto
+git pull origin master = para trar cosas del repositorio remoto
+git pull origin master --allow-unrelated-historias = es para fucionar dos historias distintas
+git push origin master = envia lo de master a el repo remoto
+ssh-keygen -t rsa -b 4096 -c (el correo) = asi se crea una llave ssh
+eval $(ssh-agent -s) = asi se evlua que este corriendo ssh
+ssh-add ~/.ssh/id_rsa = le decimos a git que esa en mi llave privada
+git remote set-url = para actalizar la tura del repo ahora con ssh
