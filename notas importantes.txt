@@ -8,3 +8,5 @@ git status es para ver como esta en este momento el proyecto
 git rm y git reset: 
 rm elimina archivos de git sin eliminar su historial (--cahed los elimina del staging pero no del disco a diferencia del --force que si lo elimina del disco)
 reset cambia el archivo sin eliminarlo y borramos su historial
+el pull request merge request es lo mismo solo que asi se llam en tros lados
+el pull request es un stagin del desarrollo
