@@ -26,3 +26,12 @@ ssh-keygen -t rsa -b 4096 -c (el correo) = asi se crea una llave ssh
 eval $(ssh-agent -s) = asi se evlua que este corriendo ssh
 ssh-add ~/.ssh/id_rsa = le decimos a git que esa en mi llave privada
 git remote set-url = para actalizar la tura del repo ahora con ssh
+git log --all --graph --decorate --oneline = para ver el historial de los commits mas visual
+alias (cualquier cosa) "el comando largo" = crea un alias para usar el comando mas facil
+git tag -a (v0.1) -m (mensaje) numeros (raros) = crear un tag
+git tag = ver los tags
+git show-ref --tags = muestra el numero raro y el tag espesificos
+git push --tags = le envia al repo remoto los tags
+git tag -d (nombre del tag) = borrar tags
+git push origin :refs/tags/(nombre del tag) = se borra en github
+ 
