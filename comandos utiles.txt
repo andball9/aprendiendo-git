@@ -35,3 +35,4 @@ git push --tags = le envia al repo remoto los tags
 git tag -d (nombre del tag) = borrar tags
 git push origin :refs/tags/(nombre del tag) = se borra en github
 git show-branch --all = me muestra todas las amas con sus historias
+git clone (el link del repo) = clonar  un repo
