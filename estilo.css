@@ -30,3 +30,13 @@ body
 {
     font-size: 200%;
 }
+#footer
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    background-color:  gold;
+    margin: 0 auto;
+    color: white;
+    font-size: 50px;
+}
