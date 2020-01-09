@@ -1,8 +1,21 @@
 body
 {
     color: #333;
-    text-align: right;
+    text-align: center;
+}
+#cabecera
+{
     background-color: blueviolet;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+    font-size: 30px;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-size: 0,8cm;
 }
 #container
 {
