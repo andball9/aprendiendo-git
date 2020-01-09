@@ -8,3 +8,6 @@ git estatus = para ver el estatus del proyecto
 git rm --cached = para sacar un archivo del staging
 cat (nombre del archivo) = para ver todo  lo que tiene un archivo
 git log = para ver el historial de todos los commits
+git show (nombre del archivo) = los cambios en el commit
+git diff (numeros raros) = los cambios con commits espesificos
+git rest (numeros raros) = se devuelve al commit anterior (--hard todo --soft deja las cosas que estan en staging quietas)
