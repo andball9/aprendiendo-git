@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
 }
 #cabecera
@@ -22,7 +22,7 @@ body
     width: 70%;
     padding: 1cm;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid red;
     margin: 0 auto;
 }
 #container h1
