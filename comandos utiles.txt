@@ -13,3 +13,5 @@ git diff (numeros raros) = los cambios con commits espesificos
 git rest (numeros raros) = se devuelve al commit anterior (--hard todo --soft deja las cosas que estan en staging quietas)
 git chekout (numeros raros o master) = puedo ver como es el archivo en su primer commit
 git reset  head es para quitar los archivos de  staging para que no se envien al ultimo commit
+git commit -am "mensaje" = un commit sin el git add solo para archivos con un add previamente
+git branch = crea una nueva rama 
