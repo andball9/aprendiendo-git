@@ -11,12 +11,13 @@ body
     color: white;
     margin: 0;
     padding: 0.5cm;
-    font-size: 30px;
+    font-size: 34px;
+    text-align: center;
 }
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
-    font-size: 0,8cm;
+    font-size: 0,1cm;
 }
 #container
 {
@@ -25,6 +26,7 @@ body
     text-align: left;
     border: 1px solid blueviolet;
     margin: 0 auto;
+    background-color: white;
 }
 #container h1
 {
