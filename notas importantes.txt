@@ -1,0 +1,7 @@
+staging = es un espacio en memoria ram  y es donde se agregan los cambios
+el repositorio es donde estan todos los cambios al final
+git init iniciar el repocitorio
+git add es agregarlo al staging
+checkout es para traer cosas del repositorio al archivo 
+merge es unir los cambios de una rama con otra
+git status es para ver como esta en este momento el proyecto

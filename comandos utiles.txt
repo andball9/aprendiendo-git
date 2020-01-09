@@ -1,0 +1,8 @@
+mkdir +(el nombre de la carpeta) = crear carpetas desde consola
+toush + (nombre de el archivo+la extencion) = crear un archivo vacio 
+rm + (el nombre de lo que quieres borrar) = se borra todo
+git add + (el nombre del archivo)= agregas y dejas esperando el archivo en staging
+commit -m(mensaje) = pasas el archivo del staging a el repositorio
+git init (estando en la ruta del proyecto) =  inicia el repositorio
+git estatus = para ver el estatus del proyecto
+git rm --cached = para sacar un archivo del staging
